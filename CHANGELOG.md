@@ -1,4 +1,9 @@
 # Change Log
+
+## 0.3.6+twz123.0
+
+- Use go install instead of go get for gomanifest
+
 ## 0.3.6 (June 28th 2022)
 - fixes - [ISSUE] Extension causes VSCode Jupyter Notebook to malfunction. See [#546](https://github.com/fabric8-analytics/fabric8-analytics-vscode-extension/issues/546) [#547](https://github.com/fabric8-analytics/fabric8-analytics-vscode-extension/issues/547) [#567](https://github.com/fabric8-analytics/fabric8-analytics-vscode-extension/issues/567)
 ## 0.3.5 (November 29th 2021)
